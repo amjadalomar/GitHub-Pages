@@ -4,6 +4,8 @@ theme: cayman
 
 ## **Welcome to my User Page!**
 
+##[Lab 2 Website](https://amjadalomar.github.io/Lab2/)
+
 
 ## [Styling Text And Such](#styling-text-and-such) 
 
