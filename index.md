@@ -1,25 +1,24 @@
-theme: cayman
+# Amjad Al-Omar
 
-# AMJADS USER PAGE
+## **Welcome to my my User Page!**
 
-## **Welcome to my User Page!**
+### Directory
+- [Amjad Al-Omar](#amjad-al-omar)
+  - [**Welcome to my my User Page!**](#welcome-to-my-my-user-page)
+    - [Directory](#directory)
+  - [About Me](#about-me)
+  - [That guy from the Legend of Zelda + S](#that-guy-from-the-legend-of-zelda--s)
+  - [Cool Pics. Very Important](#cool-pics-very-important)
+  - [Lists of Stuff](#lists-of-stuff)
+  - [My Tasks for life](#my-tasks-for-life)
 
-##[Lab 2 Website](https://amjadalomar.github.io/Lab2/)
+## About Me
 
-
-## [Styling Text And Such](#styling-text-and-such) 
-
-***I DO NOT KNOW WHAT IM DOING AND I DO NOT KNOW IF I DID THE VSCODE VERSION CONTROL SECTION OF THIS CORRECTLY THANK YOU!***
+My name is **Amjad Al-Omar**. I am a 4th year *Mathematics-Computer Science* student in Sixth college. I am interested in becoming a backend developer and focusing on infrastructure. If you wanna give me a job, let me know. I will accept. In my free time, I enjoy doing puzzles, playing board games, soccer, basketball, and watching anime. ~~I dont know what I'm doing.~~ I always know what I'm doing 100% of the time. :)
 
 **This is bold text**
-
 *This text is italicized*
-
-~~cheesepuffs~~
-
 **This text is _extremely_ important**
-
-*onion rings?*
 
 Finn from Adventure Time said this once: 
 > "Imagination is for turbo nerds who can't accept how kickbutt Reality is!"
@@ -33,26 +32,14 @@ git add
 git commit
 ```
 
-## [Learning to Link to Things](#learning-to-link-things)
-I am apparently creating this using markdown and something called [Github Pages](https://pages.github.com/).
+## That guy from the Legend of Zelda + S
+This page was made with [Github Pages](https://pages.github.com/).
 
 Heres a snazzy extra page I made. It looks fun [RELATIVITY](/userPage/relative.md)
 
 And heres one to the [README](/README.md)
 
-## SECTION LINKS!! THEY ARE HERE!!
-
-Heres some links to other sections :) 
-- [AMJADS USER PAGE](#amjads-user-page)
-  - [**Welcome to my User Page!**](#welcome-to-my-user-page)
-  - [Styling Text And Such](#styling-text-and-such)
-  - [Learning to Link to Things](#learning-to-link-to-things)
-  - [SECTION LINKS!! THEY ARE HERE!!](#section-links-they-are-here)
-  - [Images](#images)
-  - [Now We Can List Things](#now-we-can-list-things)
-  - [My Tasks for Today](#my-tasks-for-today)
-
-## [Images](#images)
+## Cool Pics. Very Important
 
 Heres a picture of one of my favorite animes :)
 ![OddTaxiCast](/userPage/images/oddtaxi.png)
@@ -60,7 +47,7 @@ Heres a picture of one of my favorite animes :)
 And heres a hamburger!!!
 ![hamburger](/userPage/images/hamburger.jpeg)
 
-## [Now We Can List Things](#now-we-can-list-things)
+## Lists of Stuff
 
 Please see below all words that I want a necklace to have on them, maybe etched onto a piece of rice or something:
 - Bread
@@ -79,10 +66,10 @@ Heres an ordered list of my favorite numbers:
 5. 8
 6. 7
 
-## [My Tasks for Today](#my-tasks-for-today)
+## My Tasks for life
 
-- [x] Go to CSE 110 Lab
-- [ ] Finish lab
-- [ ] apply to full-time jobs!!
+- [x] Apply to jobs
+- [ ] Interview for them
+- [ ] Get Job
 - [ ] eat orange chicken from trader joes
 - [x] look cool
