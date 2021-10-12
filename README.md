@@ -6,3 +6,5 @@ My favorite programming language I think would have to be Java since its the fir
 
 Please find my User Page here: 
 [Amjad's User Page](https://amjadalomar.github.io/GitHub-Pages/)
+
+[Lab 2 Website](https://amjadalomar.github.io/Lab2/)
